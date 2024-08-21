@@ -5,7 +5,7 @@
 O principal objetivo do projeto é criar uma interface intuitiva para pesquisa e modificação de registros em uma base de dados. A aplicação permitirá visualizar, buscar e editar informações detalhadas de produtos, incluindo imagem, nome, preço, marca e categoria. Esse sistema facilitará a gestão e atualização dos dados de forma eficiente e organizada, proporcionando uma experiência de usuário otimizada
 
 ## Gerenciador de pacotes
-Para você conseguir rodar o projeto é necessário ter o **yarn** instalado em seua maquina, siga este [tutuorial](https://chore-update--yarnpkg.netlify.app/pt-BR/docs/install#windows-tab) de instalção para seguir para os próximos passos.
+Para você conseguir rodar o projeto é necessário ter o **yarn** instalado em seua maquina, siga este [tutorial](https://chore-update--yarnpkg.netlify.app/pt-BR/docs/install#windows-tab) de instalção para seguir para os próximos passos.
 
 ## Node
 A versão utilizada para o desenvolvimento deste projeto foi a **v20.16.0**
@@ -41,7 +41,7 @@ Dentro da pasta você precisará executar os comandos abaixo
 
 O projeto esta configurado para rodar na porta **3001**
 
-## Front-end e tecnologias utilizdas
+## Front-end e tecnologias utilizadas
 
 - **Next**: Justificativa: Escolhido por sua capacidade de renderizar páginas no lado do servidor (SSR) e gerar sites estáticos (SSG), proporcionando desempenho e uma navegação fluida.
 
@@ -58,7 +58,7 @@ O projeto esta configurado para rodar na porta **3001**
 
 
 
-## Back-end e tecnologias utilizdas
+## Back-end e tecnologias utilizadas
 
 - **NestJS**: Escolhemos o NestJS por ser um framework eficiente para construir aplicações server-side escaláveis e bem estruturadas. Ele oferece uma arquitetura modular que facilita a manutenção e a integração com outras bibliotecas, além de ser altamente compatível com TypeScript.
 
