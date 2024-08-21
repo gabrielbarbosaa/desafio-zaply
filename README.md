@@ -21,6 +21,7 @@ Dentro da pasta você precisará executar os comandos abaixo
 1. yarn dev
 
 O projeto esta configurado para rodar na porta **3000**
+Também foi adicionado a documentação com Swagger **3000/api**
 
 ## Executando Back-end
 Para rodar o back-end deve ser acessada a pasta **backend**.
